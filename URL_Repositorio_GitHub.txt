@@ -1,1 +1,1 @@
-https://github.com/Joannesjmr-dev/auth-api.git
+https://github.com/Joannesjmr-dev/auth-api
